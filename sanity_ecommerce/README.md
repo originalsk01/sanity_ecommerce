@@ -1,3 +1,7 @@
+# Setup
+
+After Pulling the repo, run the command `npm install --legacy-peer-deps` to get the exact dependencies used in this project
+
 # Sanity Clean Content Studio
 
 Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
